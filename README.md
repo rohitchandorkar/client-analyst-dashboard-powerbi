@@ -50,6 +50,19 @@ car-sales-dashboard-powerbi/
 3. Refresh data using the attached `Client.xlsx` file
 4. Interact with slicers and visuals to explore insights
 
+## 📄 Pages Included
+
+| Page No. | Page Name                  |
+|----------|----------------------------|
+| 1        | Client Summary          |
+| 2        | Client Summary Table    |
+| 3        | Profit Summary          |
+| 4        | Profit Summary Table    |
+| 5        | Revenue Summary         |
+| 6        | Profit Summary Table    |
+
+---
+
 ---
 
 ## 📷 Snap of Dashboad Pages (6) ,
