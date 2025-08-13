@@ -52,20 +52,23 @@ car-sales-dashboard-powerbi/
 
 ---
 
-## 📷 Snap of Dashboad Pages (3) ,
+## 📷 Snap of Dashboad Pages (6) ,
 
-car_sales 
-"C:\Users\Rohit Chandorkar\Desktop\pbi\Dashboard-Request\Images and icons\1.png"
+<img width="1392" height="770" alt="1" src="https://github.com/user-attachments/assets/edea8f42-b7b4-4b42-8208-df2ef9b960ea" />
 
-"C:\Users\Rohit Chandorkar\Desktop\pbi\Dashboard-Request\Images and icons\2.png"
+<img width="1388" height="763" alt="2" src="https://github.com/user-attachments/assets/16c1ca97-796c-46ba-9c82-3f8157d37507" />
 
-"C:\Users\Rohit Chandorkar\Desktop\pbi\Dashboard-Request\Images and icons\3.png"
+<img width="1386" height="776" alt="3" src="https://github.com/user-attachments/assets/7dfeb5ae-7d14-42fb-8eea-94092cbc08ec" />
 
-"C:\Users\Rohit Chandorkar\Desktop\pbi\Dashboard-Request\Images and icons\4.png"
+<img width="1392" height="767" alt="4" src="https://github.com/user-attachments/assets/f3a7d3c3-4ed1-4f54-8446-14b1f75c50f8" />
 
-"C:\Users\Rohit Chandorkar\Desktop\pbi\Dashboard-Request\Images and icons\5.png"
+<img width="1382" height="772" alt="5" src="https://github.com/user-attachments/assets/5d62791d-375a-4934-bde3-084f6207ece0" />
 
-"C:\Users\Rohit Chandorkar\Desktop\pbi\Dashboard-Request\Images and icons\6.png"
+<img width="1385" height="770" alt="6" src="https://github.com/user-attachments/assets/c3a5ddc8-bb03-4d9d-b281-b75b408b93d3" />
+
+
+
+
 
 
 
