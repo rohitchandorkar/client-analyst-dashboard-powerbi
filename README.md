@@ -12,12 +12,12 @@ https://app.powerbi.com/groups/me/reports/502c4c17-c9a9-4e5f-9133-e01e5d34aa0b/9
 
 ## 📊 Project Features
 
-- Track **total cars sold** and **total revenue**
-- Breakdown by **company**, **model**, and **region**
-- Analyze **sales trends over time**
-- Identify **top-performing dealers and models**
-- Insights on **customer income**, **gender**, and **car preferences**
-- Filtering capabilities by **color**, **transmission**, and more
+- Track **YTD, QTD,MTD,** and **total revenue,total profit**
+- Breakdown by **client code**,**client name** **financial year**,**financial quarter** and **region**
+- Analyze **YoY%**,**QoQ%**,**MoM%**
+- Identify **top-performing client**
+- Insights on **client revenue**, **FTE**, and **costs**
+
 
 ---
 
