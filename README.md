@@ -1,4 +1,4 @@
-#  Clien Analysis Dashboard – Power BI Project
+#  Client Analysis Dashboard – Power BI Project
 
 ---
 ## Description 
@@ -52,10 +52,20 @@ car-sales-dashboard-powerbi/
 
 ---
 
-## 📷 Preview
+## 📷 Snap of Dashboad Pages (3) ,
 
 car_sales 
-![car_overview](https://github.com/user-attachments/assets/0e2e0e4c-8608-4097-9821-1a6535ed6ac1)
+"C:\Users\Rohit Chandorkar\Desktop\pbi\Dashboard-Request\Images and icons\1.png"
+
+"C:\Users\Rohit Chandorkar\Desktop\pbi\Dashboard-Request\Images and icons\2.png"
+
+"C:\Users\Rohit Chandorkar\Desktop\pbi\Dashboard-Request\Images and icons\3.png"
+
+"C:\Users\Rohit Chandorkar\Desktop\pbi\Dashboard-Request\Images and icons\4.png"
+
+"C:\Users\Rohit Chandorkar\Desktop\pbi\Dashboard-Request\Images and icons\5.png"
+
+"C:\Users\Rohit Chandorkar\Desktop\pbi\Dashboard-Request\Images and icons\6.png"
 
 
 
