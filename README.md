@@ -82,6 +82,19 @@ car-sales-dashboard-powerbi/
 
 
 
+## 📊 Data Tables & Model
+
+- **Main Table:** `Data` (Client, Profitability, Revenue)
+- **Date Table:** 
+
+- **Relationships:**
+  - `Client[date]`  → `DateTable[date]` (Many-to-One)
+  - `Profit[date]`  → `DateTable[date]` (Many-to-One)
+  - `Revenue[date]` → `DateTable[date]` (Many-to-One)
+  
+
+Data Model
+<img width="1236" height="783" alt="DataModelling" src="https://github.com/user-attachments/assets/9e72d41f-7921-4e0a-851a-1708803f3cf1" />
 
 
 
