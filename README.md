@@ -107,9 +107,15 @@ MIT License – see LICENSE file for details.
 
 ---
 
-Created by **Rohit Chandorkar**  
-Feel free to connect or reach out.  
-[Connect with me on LinkedIn](https://www.linkedin.com/in/rohit-c-13a0bb117/)  
+
+👨‍💻 Project by **Rohit Chandorkar**  
+
+📌 I’d be happy to connect and discuss opportunities.   
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-c-13a0bb117/)  
+- 🌐 [GitHub](https://github.com/rohitchandorkar)  
+- 📧 chandorkar.rohit@gmail.com 
+
+---
 
 
 
