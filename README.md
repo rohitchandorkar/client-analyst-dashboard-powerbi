@@ -105,12 +105,11 @@ MIT License – see LICENSE file for details.
 
 
 
-## 📬 Contact
+---
 
-Created by **Rohit Chandorkar**
-Feel free to connect or reach out
-Let’s [connect on LinkedIn](https://www.linkedin.com/in/rohit-c-13a0bb117/) 
-
+Created by **Rohit Chandorkar**  
+Feel free to connect or reach out.  
+[Connect with me on LinkedIn](https://www.linkedin.com/in/rohit-c-13a0bb117/)  
 
 
 
