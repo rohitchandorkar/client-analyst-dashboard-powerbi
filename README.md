@@ -108,7 +108,7 @@ MIT License – see LICENSE file for details.
 
 ## 📬 Contact
 
-Created by **ROHIT CHANDORKAR**
+Created by **Rohit Chandorkar**
 Feel free to connect or reach out
 Let’s [connect on LinkedIn](https://www.linkedin.com/in/rohit-c-13a0bb117/) 
 
