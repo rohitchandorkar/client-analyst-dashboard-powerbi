@@ -62,7 +62,6 @@ car-sales-dashboard-powerbi/
 | 5        | Revenue Summary         |
 | 6        | Profit Summary Table    |
 
----
 
 ---
 
