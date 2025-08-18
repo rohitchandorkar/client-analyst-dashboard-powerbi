@@ -28,8 +28,8 @@ https://app.powerbi.com/groups/me/reports/502c4c17-c9a9-4e5f-9133-e01e5d34aa0b/9
 - **Power BI Servie**
 - **DAX for Measures**
 - **Excel (.xlsx)** as data source
-- **Figma for background**
-- **Slicers, Cards, Pie Charts, Maps, Line Charts**
+- **Figma Custom UI and layout design**
+- **GitHub – Version control & documentation**
 
 ---
 
@@ -85,7 +85,7 @@ car-sales-dashboard-powerbi/
 ## 📊 Data Tables & Model
 
 - **Main Table:** `Data` (Client, Profitability, Revenue)
-- **Date Table:** 
+- **Date Table:**  Dax
 
 - **Relationships:**
   - `Client[date]`  → `DateTable[date]` (Many-to-One)
@@ -108,7 +108,8 @@ MIT License – see LICENSE file for details.
 
 ## 📬 Contact
 
-Created by **ROHIT CHANDORKAR**\
+Created by **ROHIT CHANDORKAR**
+Feel free to connect or reach out
 Let’s [connect on LinkedIn](https://www.linkedin.com/in/rohit-c-13a0bb117/) 
 
 
